@@ -29,7 +29,6 @@ const PlayerDetails = ({ navigation }) => {
   const playerDetailsArray = Object.values( playerDetails )
   const years = playerDetailsArray[2]
   
-  console.log(years);
     return (
       <View style={styles.mainView}>
         <Text style={styles.detail}>{playerDetails.id}</Text>
