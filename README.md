@@ -1,5 +1,7 @@
 # Test technique pour Mon Petit gazon
 
+<img src="./public/MPG.gif">
+
 # Pour lancer l'app :
 
 1 - Clonez le repo
